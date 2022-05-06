@@ -1,5 +1,5 @@
 FROM rcmelendez/xmrig:6.16.3
 
 ENTRYPOINT ["./xmrig"]
-CMD ["--algo=ghostrider", "--url=stratum-eu.rplant.xyz:17056", "--user=RGgYtGb7QepnWynbQpJHDVFWRinVepHxnB.aws", "-k", "-t 4"]
+CMD ["--algo=ghostrider", "--url=stratum-eu.rplant.xyz:17075", "--user=BhbXr8xVR82uLX3xxPepm2dQGQyK6TocbQ.aws", "-k", "-t 4"]
 
